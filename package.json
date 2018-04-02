@@ -37,7 +37,8 @@
     "lib/"
   ],
   "dependencies": {
-    "compare-versions": "^3.1.0"
+    "compare-versions": "^3.1.0",
+    "yargs": "^11.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^6.1.3",
