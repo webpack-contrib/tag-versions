@@ -23,7 +23,7 @@ This module requires a minimum of Node v6.9.0.
 To begin, you'll need to install `tag-versions`:
 
 ```console
-$ npm i -g @webpack-contrib/tag-versions --save-dev
+$ npm i -g @webpack-contrib/tag-versions
 ```
 
 Wraps compare-versions to perform semver comparisons on libraries dist-tags consumable from a simple bash script( see below ).
