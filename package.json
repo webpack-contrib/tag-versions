@@ -8,7 +8,7 @@
   "homepage": "https://github.com/webpack-contrib/tag-versions",
   "bugs": "https://github.com/webpack-contrib/tag-versions/issues",
   "bin": {
-    "compver": "./cli.js"
+    "compver": "./bin/cli.js"
   },
   "main": "lib/index.js",
   "engines": {
