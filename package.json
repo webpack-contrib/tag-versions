@@ -1,6 +1,6 @@
 {
   "name": "@webpack-contrib/tag-versions",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A commandline wrapper around omichelsen/compare-versions to compare dist-tags",
   "license": "Apache-2.0",
   "repository": "webpack-contrib/tag-versions",
